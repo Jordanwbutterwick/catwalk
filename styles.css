@@ -1,0 +1,63 @@
+.cat {
+  height: 50vh;
+}
+
+.cat2 {
+  height: 50vh;
+}
+
+.main-content {
+  margin: auto;
+  text-align: center;
+  max-width: 1200px;
+}
+
+p,
+button {
+  font-family: "Coming Soon";
+  font-size: 1.4em;
+}
+
+button {
+  background: rgba(200, 200, 200, 0.3);
+  border-radius: 25px;
+  border-color: white;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+h1 {
+  font-family: "Walter Turncoat";
+  font-size: 7em;
+}
+h2 {
+  font-family: "Walter Turncoat";
+}
+.title {
+  width: 1200px;
+  text-align: center;
+  margin: auto;
+  margin-top: 150px;
+  height: 55vh;
+}
+
+.button1 {
+  display: flex;
+  margin: auto;
+  margin-bottom: 500px;
+  justify-content: center;
+}
+
+#cat {
+  position: absolute;
+  left: 0;
+}
+#cat2 {
+  position: absolute;
+  left: 0;
+}
+
+#cattreats {
+  position: absolute;
+  left: 0;
+}
